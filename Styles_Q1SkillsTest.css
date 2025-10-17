@@ -1,0 +1,43 @@
+body{
+	background-image: url(Robotv2.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: cover;
+   font-family: "Roboto Slab", serif;
+   font-optical-sizing: auto;
+   font-weight: 300;
+   font-style: normal; 
+   color: #333333;
+}
+
+
+form{
+	text-align: center;
+	margin: auto;
+	background-image: url(Futuristicbg.jpg); 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: cover;
+	width: 50%;
+	padding: 30px;
+	border-radius: 10px;
+}
+
+.container{
+	background-color: whitesmoke;
+	width: 50%;
+ 	margin: 0px auto;
+	border: 1px solid gray;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px 0px rgba(125,152,214,0.75);
+ 
+}
+
+fieldset{
+	background-color: whitesmoke;
+	text-align: left;
+
+}
+
+
